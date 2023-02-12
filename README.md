@@ -34,5 +34,23 @@ This example demonstrates how to open and use the AirBnB console:
 		   (hbnb) exit
 		5. The prompt will disappear, and you will be back at the command line
 
-		
+		===============================================================
 		   
+		$ ./console.py
+
+		(hbnb) help
+
+
+		Documented commands (type help <topic>):
+
+		========================================
+
+		EOF  help  quit
+
+		(hbnb) 
+
+		(hbnb) 
+
+		(hbnb) quit
+
+		$
