@@ -19,3 +19,20 @@ Launching the interpreter:
 	Usage:
 		This console/command-interpreter allows you to manage objects (create, update,
 		destroy, etc.) and store and persist these objects to a JSON file.
+
+
+
+This example demonstrates how to open and use the AirBnB console:
+		1. The first step is to open the console by running the following command:
+		   $ ./console.py
+		2. The prompt (hbnb) will appear indicating that the console is ready to receive commands.
+		   (hbnb)
+		3. To view a list of available commands, type "help" and press enter. 
+		   This will display a list of documented commands, including "EOF," "help," and "quit."
+		   (hbnb) help
+		4. To exit the console, type "quit" and press enter.
+		   (hbnb) exit
+		5. The prompt will disappear, and you will be back at the command line
+
+		
+		   
