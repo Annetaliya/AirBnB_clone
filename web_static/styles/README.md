@@ -73,4 +73,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Annette - [Annette](https://github.com/Anneataliya)
+* **Eric Okemwa** - [erokemwa](https://github.com/erokemwa)
